@@ -1,4 +1,4 @@
-# listadoMercadolibeBh
+# listadoMercadolibreBh
 
 ## Enunciado
 Se solicita crear un programa que liste marcas de motos, junto al precio promedio de todas las motos publicadas en mercadolibre para cada marca. Para ello se utilizará la api pública de mercadolibre.
